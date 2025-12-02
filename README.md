@@ -48,7 +48,6 @@ HAR Viewer 是一个用于查看和分析 HAR (HTTP Archive) 文件的工具，�
 ```
 hars/
 ├── README.md          # 项目说明文档
-├── aidp.har           # 示例 HAR 文件
 ├── go.mod             # Go 模块依赖
 ├── go.sum             # 依赖校验文件
 ├── harviewer.exe      # 编译后的可执行文件
